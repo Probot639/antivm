@@ -1,0 +1,11 @@
+
+[pafish] Start
+[pafish] Windows version: 6.2 build 9200 (WoW64)
+[pafish] CPU: AuthenticAMD (HV: KVMKVMKVM) QEMU Virtual CPU version 2.5+
+[pafish] CPU VM traced by checking the difference between CPU timestamp counters (rdtsc) forcing VM exit
+[pafish] CPU VM traced by checking hypervisor bit in cpuid feature bits
+[pafish] CPU VM traced by checking cpuid hypervisor vendor for known VM vendors
+[pafish] Sandbox traced by checking operating system uptime using GetTickCount()
+[pafish] Qemu traced using CPU brand string 'QEMU Virtual CPU'
+[pafish] Bochs traced using Reg key HKLM\HARDWARE\Description\System "SystemBiosVersion"
+[pafish] End
